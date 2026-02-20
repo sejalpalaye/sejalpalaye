@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi, I'm Sejal Palaye 👋
+
+🎓 BSc IT Graduate  
+🐧 Learning Linux Foundations 
+
+## 🚀 Current Focus
+- Linux Command Line Mastery
+- System Administration Basics
+- Networking Fundamentals
+- Shell Scripting
+
+## 📂 Active Repository
+➡️ Linux Foundation & Command Practice (See below)
 
 <!--
 **sejalpalaye/sejalpalaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
